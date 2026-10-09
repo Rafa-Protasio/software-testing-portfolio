@@ -23,4 +23,4 @@ Bem-vindo(a) ao meu portfólio de **Quality Assurance (QA)**! Este repositório 
 
 ## 📬 Contato
 
-- **LinkedIn:** [Seu Perfil do LinkedIn](https://www.linkedin.com/in/rafaela-protasio/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rafaela-protasio/)
